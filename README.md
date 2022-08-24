@@ -1,0 +1,2 @@
+# tizenTv
+Tizen tv app
